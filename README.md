@@ -1,4 +1,4 @@
 demo-project
 ============
 
-Demo project for dashub
+Demo project for Dashub
